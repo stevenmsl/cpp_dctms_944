@@ -6,10 +6,10 @@
 #include <vector>
 #include <string>
 
-using namespace sol929;
+using namespace sol944;
 using namespace std;
 
-namespace sol929
+namespace sol944
 {
     class Util
     {

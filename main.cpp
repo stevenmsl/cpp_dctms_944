@@ -7,7 +7,7 @@
 #include "util.h"
 
 using namespace std;
-using namespace sol929;
+using namespace sol944;
 
 /*
 Input: ["cba","daf","ghi"]

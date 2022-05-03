@@ -10,7 +10,7 @@
 #include <stack>
 
 using namespace std;
-namespace sol929
+namespace sol944
 {
 
   class Solution

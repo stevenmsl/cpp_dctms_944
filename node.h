@@ -5,7 +5,7 @@
 #include <cinttypes>
 using namespace std;
 
-namespace sol929
+namespace sol944
 {
     struct Node
     {
